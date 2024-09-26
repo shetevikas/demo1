@@ -18,4 +18,8 @@ public void m1()
 {
 	System.out.println("m3method");
 }
+			public void m4()
+{
+	System.out.println("m4 method");
+}
 }
